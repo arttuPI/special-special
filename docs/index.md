@@ -7,4 +7,6 @@
 
 ## Muokataan ja testanaan vähän lisää
 
-- [Reverse Engineering Notes](/special-special/docs/_posts/2025-01-30-reverse-engineering-notes.md)
+- [Ensi julkaisu](../docs/_posts/2023-11-01-Ensi%20julkaisuni.md)
+
+[Toinen julkaisu](/special-special/docs/_posts/2025-01-30-reverse-engineering-notes.md)
