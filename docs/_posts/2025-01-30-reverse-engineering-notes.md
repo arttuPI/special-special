@@ -1,9 +1,6 @@
-
 ---
-layout: post
-title: "Reverse Engineering Notes"
+title: "Reverse engineering notes"
 date: 2025-01-30
-categories: reverse-engineering
 ---
 
 
