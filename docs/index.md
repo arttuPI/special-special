@@ -9,4 +9,6 @@
 
 - [Ensi julkaisu](../docs/_posts/2023-11-01-Ensi%20julkaisuni.md)
 
-[Toinen julkaisu](/special-special/docs/_posts/2025-01-30-reverse-engineering-notes.md)
+[Toinen julkaisu](index.md)
+
+[Kolmas julkaisu](./_posts/2025-01-30-reverse-engineering-notes.md)
