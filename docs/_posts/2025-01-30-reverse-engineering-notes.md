@@ -1,3 +1,12 @@
+
+---
+layout: post
+title: "Reverse Engineering Notes"
+date: 2025-01-30
+categories: reverse-engineering
+---
+
+
 **Takaisinmallinnuksen Tärkeimmät Käsitteet ja Ominaisuudet**
 
 | **Kategoria**                               | **Käsite**                        | **Selitys**                                                                                                |
