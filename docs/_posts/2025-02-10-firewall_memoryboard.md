@@ -54,7 +54,7 @@ DENY    ALL   0.0.0.0/0 → 0.0.0.0/0             # Estä kaikki muu liikenne
 
 ### Tunnetut portit ja palvelut:
 | Portti | Protokolla | Käyttötarkoitus |
-|:------:|:------:|:------:|
+|------------|----------|------------|
 | 80 | TCP | HTTP (Web) |
 | 443 | TCP	| HTTPS (Suojattu Web) |
 | 22 | TCP | SSH (Etäyhteys) |
