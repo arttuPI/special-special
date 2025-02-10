@@ -38,19 +38,7 @@ Palomuuri käyttää sääntöjä liikenteen hallintaan. Jokaisella säännöll�
 
 ---
 
-## 🔗 4. Esimerkki säännöistä  
-📌 **Perusasetukset palomuurille:**  
-
-```sh
-ALLOW   TCP   192.168.1.0/24 → 443 (Internet)   # Salli HTTPS-selaus
-ALLOW   TCP   192.168.1.10 → 22 (SSH)           # Salli SSH-yhteys palvelimelle
-DENY    ALL   0.0.0.0/0 → 3389 (RDP)            # Estä etätyöpöytä Internetistä
-DENY    ALL   0.0.0.0/0 → 0.0.0.0/0             # Estä kaikki muu liikenne
-```
-
----
-
-## 🔢 5. Yleisimmät portit palomuurisäännöissä
+## 🔢 4. Yleisimmät portit palomuurisäännöissä
 
 ### Tunnetut portit ja palvelut:
 | Portti | Protokolla | Käyttötarkoitus |
@@ -64,9 +52,25 @@ DENY    ALL   0.0.0.0/0 → 0.0.0.0/0             # Estä kaikki muu liikenne
 
 ---
 
-## 📌 6. Tärkeimmät muistettavat asiat
+## 📌 5. Tärkeimmät muistettavat asiat
 
 ✔ Oletussääntö: Estä kaikki, salli vain tarvittavat.
 ✔ Kirjaa ja analysoi liikennettä (logit auttavat tunnistamaan hyökkäykset).
 ✔ Käytä monitasoista suojausta (palomuuri + IDS/IPS + VPN).
 ✔ Päivitä säännöt ja tarkista asetukset säännöllisesti!
+
+---
+
+## 🔗 6. Esimerkki säännöistä  
+📌 **Perusasetukset palomuurille:**  
+
+```sh
+ALLOW   TCP   192.168.1.0/24 → 443 (Internet)   # Salli HTTPS-selaus
+ALLOW   TCP   192.168.1.10 → 22 (SSH)           # Salli SSH-yhteys palvelimelle
+DENY    ALL   0.0.0.0/0 → 3389 (RDP)            # Estä etätyöpöytä Internetistä
+DENY    ALL   0.0.0.0/0 → 0.0.0.0/0             # Estä kaikki muu liikenne
+```
+
+---
+
+
