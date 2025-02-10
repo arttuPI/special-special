@@ -1,14 +1,11 @@
----
-# Tervetuloa sivustolleni
+
 ---
 ## Sisältöä tulossa, kunhan sitä kerkeää tuottaa!
 ---
-### Tarkoitus julkaista materiaalia omista projekteista ja **CTF** -haasteista.
+# Julkaisuja mielenkiinnon ja kouluprojektien parista
 
-## Muokataan ja testanaan vähän lisää
+- [Reverse engineering notes](./_posts/2025-01-30-reverse-engineering-notes.md)
 
-- [Ensi julkaisu](../docs/_posts/2023-11-01-Ensi%20julkaisuni.md)
+- [Firewall notes](./_posts/2025-02-10-firewall_memoryboard.md)
 
-[Toinen julkaisu](index.md)
-
-[Kolmas julkaisu](./_posts/2025-01-30-reverse-engineering-notes.md)
+- [To be added post]()
